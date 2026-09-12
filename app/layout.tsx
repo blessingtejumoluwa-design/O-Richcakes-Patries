@@ -23,6 +23,20 @@ export const metadata: Metadata = {
     description: "Sweet Moments, Baked Fresh. Premium cakes and pastries for all occasions.",
     type: 'website',
     locale: 'en_NG',
+    images: [
+      {
+        url: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ee6ef5cbf05b16e404215abafd2eb24a-MC87YFGe1DTlgvxubMYkREAZgTWxKQ.jpg',
+        width: 736,
+        height: 1097,
+        alt: "Slice of red velvet cake topped with fresh strawberries",
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "O'Rich Cakes & Pastries | Premium Bakery in Ilorin",
+    description: "Sweet Moments, Baked Fresh. Premium cakes and pastries for all occasions.",
+    images: ['https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ee6ef5cbf05b16e404215abafd2eb24a-MC87YFGe1DTlgvxubMYkREAZgTWxKQ.jpg'],
   },
   icons: {
     icon: [
